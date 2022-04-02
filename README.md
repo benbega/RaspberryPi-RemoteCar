@@ -18,3 +18,7 @@ The project is currently in pretty early stages of development, with the reposit
 ## **Looking Forward**
 
 Over the course of the next few weeks, I will be adding support for user input to control the steering servo and motor power. After all of the basic driving functionality is implemented, I will work on creating an automated system for automatically starting scripts on the Raspberry Pis and connecting the remote GPIO functionality.
+
+--
+
+This project is licensed under the terms of the MIT license
