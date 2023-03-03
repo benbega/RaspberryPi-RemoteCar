@@ -13,6 +13,8 @@ A more robust document with project details will be posted as a PDF in this repo
 
 The car portion of the project contains a chassis, two DC motors, a servo, a Raspberry Pi 4B+, and a custom PCB. The PCB was fully custom designed, and incorporates an L293D motor driver chip, as well as indicator LEDs, signal pins for the servo, and hookups for the system's battery. The car uses a small 7V battery to power all of the microelectronic components, as well as a 5V 3A battery pack to power the Raspberry Pi. Although the dual battery system is extremely heavy and inefficient, it was chosen to suit the Raspberry Pi's high current demands.
 
+The design files and information about the custom PCB can be found in the RaspiCar_PCB2 folder in this GitHub repository.
+
 ## **Wireless Communication**
 
 The wireless controller functionality is implemented by utilizing the Raspberry Pi's remote GPIO functionality through the gpiozero library. The Raspberry Pi powering the controller is setup to be a wireless access point, which the car's Raspberry Pi connects to automatically upon boot. This allows the Remote GPIO setup to work anywhere, not just in specific locations that have a prexisting WiFi network. While lower power Raspberry Pi models, or microcointrollers could likely be used to accomplish the same functionality, these are the boards I currently have, and there is no reason currently to change the design.
