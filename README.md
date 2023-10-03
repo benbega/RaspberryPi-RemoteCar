@@ -7,7 +7,7 @@ This is a remote controlled car based on two Raspberry Pi 4B+ single board compu
 
 A more robust document with project details will be posted as a PDF in this repository soon, containing a list of the exact hardware being used and instructions to setup the project yourself.
 
-[A video of the project's current state can be found by clicking here](https://drive.google.com/file/d/16IPjEnowMKMXTBlExd92VV3uJnW5QUr4/view?usp=share_link) 
+[A video of the project's current state can be found by clicking here](https://youtu.be/IsMrb5jVGqQ) 
 
 ## **Car Setup**
 
